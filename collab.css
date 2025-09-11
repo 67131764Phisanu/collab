@@ -104,7 +104,6 @@ body {
   justify-content: center;
   align-items: flex-start;
   gap: 20px;
-  max-width: 1600px;
   margin: 0 auto;
   flex-wrap: nowrap;
   overflow-x: auto;
