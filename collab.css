@@ -248,3 +248,51 @@ body {
             transform: translateY(-2px);
             box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
         }
+        .profile-card2 {
+            background: linear-gradient(135deg, #f5e6a3 0%, #f9f0c4 100%);
+            border-radius: 20px;
+            padding: 40px;
+            max-width: 400px;
+            width: 100%;
+            text-align: center;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+            position: relative;
+        }
+
+        .landscape-container {
+            border-radius: 15px;
+            height: 300px;
+            position: relative;
+            overflow: hidden;
+            margin-bottom: 30px;
+        }
+
+        .hills {
+            position: absolute;
+            left: 0;
+            right: 0;
+        }
+
+        .name-thai {
+            font-size: 28px;
+            font-weight: 700;
+            color: #2c3e50;
+            margin: 10px 0;
+            line-height: 1.2;
+        }
+
+        .student-id {
+            font-size: 32px;
+            font-weight: 700;
+            color: #2c3e50;
+            margin: 15px 0 25px 0;
+            letter-spacing: 1px;
+        }
+
+        .description {
+            font-size: 18px;
+            color: #34495e;
+            line-height: 1.4;
+            margin-top: 20px;
+            font-weight: 400;
+        }
